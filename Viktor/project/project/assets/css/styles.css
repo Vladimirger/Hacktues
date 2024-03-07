@@ -1,0 +1,72 @@
+@import url('https://fonts.cdnfonts.com/css/comfortaa');
+* {
+    color: black;
+    font-family: 'Comfortaa', sans-serif;
+}
+
+
+.top{
+    
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+    margin-left: 200px;
+    background-color: rgba(83, 174, 239, 0.33);
+    width: 1280px;
+    height: 155px;
+    
+
+}
+.bottom{
+    margin-left: 200px;
+    background-color: rgba(83, 174, 239, 0.33);
+    width: 1280px;
+    height: 155px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+    
+}
+h2{
+    text-align: right;
+}
+
+.top-img{
+    
+    border-radius: 50%;
+    width:101px;
+    height: 101px;
+}
+button{
+    margin-top: 10px;
+    border-radius: 67px;
+    width: 80px;
+    height: 40px;
+    border: 0px;
+    background-color: rgba(182, 185, 182, 1);
+
+    
+}
+form{
+    margin-top: 100px;
+    margin-left: 40%;
+
+    width: 400px;
+    height: 400px;
+    
+}
+h3{
+    margin-top: 80px;
+    text-size-adjust: 100;
+}
+
+input{
+    width: 363px;
+    height: 77px;
+    border-radius: 67px;
+    border-color: black;
+    margin-top: 10px;
+    
+}
